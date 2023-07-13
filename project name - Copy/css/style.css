@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    /* color: ; */
+}
+
+li{
+    list-style: none;
+
+    
+}
+
+#background{
+    background-image: url(/img/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
